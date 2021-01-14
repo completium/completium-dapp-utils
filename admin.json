@@ -1,0 +1,24 @@
+{
+  "mnemonic": [
+    "auto",
+    "hamster",
+    "ability",
+    "wall",
+    "betray",
+    "heavy",
+    "fortune",
+    "disorder",
+    "quantum",
+    "hawk",
+    "nothing",
+    "parrot",
+    "step",
+    "lobster",
+    "chimney"
+  ],
+  "secret": "fd93647b67ebc3acc81715ea51ef3dc42ad0441f",
+  "amount": "10764356903",
+  "pkh": "tz1MZrh8CvYkp7BfLQMcm6mg5FvL5HRZfACw",
+  "password": "pp8rpZEV2X",
+  "email": "bikgsgvf.gwfeefll@tezos.example.org"
+}
